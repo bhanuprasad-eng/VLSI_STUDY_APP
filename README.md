@@ -158,7 +158,7 @@ on Production / public search.
 
 ## Author
 
-**Shaik Shafi**
+**Bhanu Prasad**
 B.Tech ICT, Marwadi University
 Built for the Mobile & Pervasive Computing (MPC) course project.
 
